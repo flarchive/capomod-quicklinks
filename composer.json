@@ -1,0 +1,54 @@
+{
+    "name": "capomod/quicklinks",
+    "description": "CapoMod Custom Quick Links From flarum-fibraclick",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.2.0"
+    },
+    "authors": [
+        {
+            "name": "Jasper",
+            "email": "443493410@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FibraClick\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "CapoModCustomQuickLinks",
+            "icon": {
+                "image": "icon.png",
+                "backgroundColor": "#3fc160",
+                "color": "#ffffff"
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "admin": true,
+                "forum": true,
+                "js": true,
+                "jsCommon": true,
+                "css": true,
+                "locale": true,
+                "gitConf": true,
+                "githubActions": true,
+                "prettier": true,
+                "typescript": true,
+                "bundlewatch": false,
+                "backendTesting": true,
+                "editorConfig": true,
+                "styleci": true
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
