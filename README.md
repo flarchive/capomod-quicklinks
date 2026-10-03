@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of capomod/quicklinks.** Not for installation: use [Packagist](https://packagist.org/packages/capomod/quicklinks) or the [upstream repository](https://github.com/zhujia18/CapoModQuickLinks).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/capomod-quicklinks/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/capomod-quicklinks/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2022-11-19 | `^1.2.0` | [Browse](https://github.com/flarchive/capomod-quicklinks/tree/archive/v0.0.1) |
+| `0.0.2` | 2022-11-26 | `^1.2.0` | [Browse](https://github.com/flarchive/capomod-quicklinks/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/capomod-quicklinks.json](https://github.com/flarchive/archive-index/blob/main/packages/capomod-quicklinks.json)
 
